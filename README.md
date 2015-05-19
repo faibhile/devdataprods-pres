@@ -4,7 +4,7 @@
 
 
 OK I'm having difficulty publishing the presentation to github, it says my github page doesn't exist when it does.
-So, this is the index.Rmd file from which the slide show is created. Apologies for the inconvenience. 
+So, this is the index.Rmd file from which the slide show is created. Apologies for the inconvenience (or you could take a look at the index.Rmd file to see the slides).
 
 
 
