@@ -28,4 +28,4 @@ Knowing the length of the opposite and the adjacent we can calculate the length 
 
 The End and thanks for watching!
 
-{r}
+````
