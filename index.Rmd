@@ -1,3 +1,8 @@
+
+
+
+
+````{r}
 title : me subtitle : you author : bobby job : mcgee framework : io2012 # {io2012, html5slides, shower, dzslides, ...} highlighter : highlight.js # {highlight.js, prettify, highlight} hitheme : tomorrow # widgets : [] # {mathjax, quiz, bootstrap} mode : selfcontained # {standalone, draft}
 
 knit : slidify::knit2slides
@@ -22,3 +27,5 @@ Slide 4
 Knowing the length of the opposite and the adjacent we can calculate the length of the hypotenuse
 
 The End and thanks for watching!
+
+{r}
