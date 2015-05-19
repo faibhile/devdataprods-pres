@@ -19,20 +19,31 @@ The square on the hypotenuse equals the sum of the squares on the other two side
 
 --- .class #id
 
+
+
 Slide 2
 
 ... so says Mr. Pythagoras of Greek fame
+
+---
+
 
 Slide 3
 
 Here's some R code to do that
 
 hypotenuse  <- ((adjacent^2) + (opposite^2))^0.5
+
+---
+
+
 Slide 4
 
 Knowing the length of the opposite and the adjacent we can calculate the length of the hypotenuse
 
 ---
+
+
 
 The End and thanks for watching!
 
